@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lvl1text1_1">AUDI</string>
+    <string name="lvl1text1_2">BMW</string>
+    <string name="lvl1text1_3">MERCEDES</string>
+    <string name="lvl1text1_4">OPEL</string>
+    <string name="lvl1text1_5">RENAULT</string>
+</resources>

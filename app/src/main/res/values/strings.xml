@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">POMSgame</string>
+    <string name="name">Имя</string>
+<!--    <string name="read">Read</string>-->
+<!--    <string name="save">Save</string>-->
+    <string name="back">Назад</string>
+    <string name="level">Уровень 1</string>
+    <string name="reting">Рейтинг</string>
+</resources>
