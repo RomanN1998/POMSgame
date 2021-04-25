@@ -36,7 +36,9 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_weight="1"
-                    android:backgroundTint="#F44336"
+                    android:backgroundTint="#3F51B5"
+                    android:textColor="#F44336"
+                    android:textSize="25sp"
                     android:text="@string/back" />
 
                 <TextView
@@ -59,35 +61,45 @@
                 android:id="@+id/btn_otv1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#ECD830"
+                android:backgroundTint="@color/yellow"
+                android:textColor="#F44336"
+                android:textSize="25sp"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/btn_otv2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#FFEB3B"
+                android:backgroundTint="@color/yellow"
+                android:textColor="#F44336"
+                android:textSize="25sp"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/btn_otv3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#FFEB3B"
+                android:backgroundTint="@color/yellow"
+                android:textColor="#F44336"
+                android:textSize="25sp"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/btn_otv4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#FFEB3B"
+                android:backgroundTint="@color/yellow"
+                android:textColor="#F44336"
+                android:textSize="25sp"
                 android:text="Button" />
 
             <Button
                 android:id="@+id/btn_otv5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:backgroundTint="#FFEB3B"
+                android:backgroundTint="@color/yellow"
+                android:textColor="#F44336"
+                android:textSize="25sp"
                 android:text="Button" />
         </LinearLayout>
     </LinearLayout>

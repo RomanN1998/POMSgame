@@ -8,7 +8,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:scaleType="centerCrop"
-        app:srcCompat="@drawable/bacgraound" />
+        android:src="@drawable/background"/>
 
     <TextView
         android:id="@+id/textXP"
@@ -45,7 +45,9 @@
                     android:paddingLeft="5dp"
                     android:paddingRight="5dp"
                     android:text="@string/back"
-                    android:textSize="24sp" />
+                    android:textColor="#F44336"
+                    android:textSize="25sp"
+                    android:backgroundTint="@color/yellow"/>
 
             </LinearLayout>
 
@@ -54,8 +56,10 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:textSize="24sp"
-                android:text="Начать игру" />
+                android:text="Начать игру"
+                android:textColor="#F44336"
+                android:textSize="25sp"
+                android:backgroundTint="@color/yellow"/>
 
         </LinearLayout>
     </LinearLayout>

@@ -46,8 +46,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Войти"
+            android:textColor="#F44336"
+            android:textSize="20dp"
             android:layout_margin="5dp"
-            android:background="@color/yellow"
+            android:backgroundTint="@color/yellow"
             />
 
         <Button
@@ -55,8 +57,11 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Регистрация"
+            android:textColor="#F44336"
+            android:textSize="20dp"
             android:layout_margin="5dp"
-            android:background="@color/yellow"/>
+            android:backgroundTint="@color/yellow"
+            />
 
         <Button
             android:id="@+id/read"
@@ -68,8 +73,10 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
+            android:textColor="#F44336"
+            android:textSize="20dp"
             android:layout_margin="5dp"
-            android:background="@color/yellow"/>
+            android:backgroundTint="@color/yellow"/>
     </LinearLayout>
 
 </RelativeLayout>

@@ -138,7 +138,7 @@ public class MainActivity extends AppCompatActivity {
             super.onBackPressed();
             return;
         }else{
-            backToast = Toast.makeText(getBaseContext(), "Нажмите еще разб чтобы выйти", Toast.LENGTH_SHORT);
+            backToast = Toast.makeText(getBaseContext(), "Нажмите еще раз чтобы выйти", Toast.LENGTH_SHORT);
             backToast.show();
         }
 
